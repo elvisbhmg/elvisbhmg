@@ -2,7 +2,7 @@
 # Olá! 👋 Sou Elvis Cristian da Silva
 
 
-Sou um profissional do setor público em Minas Gerais e estudante de Análise e Desenvolvimento de Sistemas.
+Sou um profissional de Minas Gerais e estudante de Análise e Desenvolvimento de Sistemas.
 
 Minha jornada começou na área do Direito, mas minha paixão pela eficiência e resolução de problemas me levou à tecnologia. Atualmente, meu foco é usar a programação para automatizar processos, analisar dados e construir ferramentas que otimizem o trabalho no dia a dia.
 
